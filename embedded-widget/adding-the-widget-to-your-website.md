@@ -28,6 +28,14 @@ The Reviewdrop widget has been designed to work virtually anywhere. Just paste i
 
 ### BigCommerce
 
+We are working on adding an app to the BigCommerce store. In the meantime you can navigate to:
+
+{% hint style="info" %}
+Bigcommerce Dashboard -&gt; Storefront -&gt; Footer Scripts
+{% endhint %}
+
+Paste in the embed code from the [builder](customise-widget-looks.md) and hit save.
+
 ### Shopify
 
 ### Wix
