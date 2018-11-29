@@ -37,7 +37,7 @@ With the core features of Reviewdrop already in place, we think this is the perf
 
 Wherever a review appears on our system, we ensure the visitor is informed if the review is either:
 
-1. **Owner submitted review:** Any review that is entered via the _**Widget Review**_ area.
+1. **Externally submitted review:** Any review that is entered via the _**Widget Review**_ area.
 2. **Customer submitted review:** Any review that is entered publically via the owners _**Profile**_.
 
 Public submitted reviews are also checked if that particular visitor has submitted in the last 30 days. We set a limit of only 30 days incase they decide to write another review in the future. This should drastically help reduce fake reviewers. If we detect multiple reviews over time, all their reviews will be flagged and reviewed internally.
@@ -48,7 +48,7 @@ We currently **do not** capture customer emails as they serve no purpose for val
 
 ### Response system
 
-In addition to our Owner/Customer tagging feature, we allow owners to add their own response to reviews. Since public reviews **cannot** be deleted/edited, the owner should have their own say as to what the customer has written. 
+In addition to our External/Customer tagging feature, we allow owners to add their own response to reviews. Since public reviews **cannot** be deleted/edited, the owner should have their own say as to what the customer has written. 
 
 If you have one bad review out of many, an owner response on the bad will always reflect well to new visitors as a one off.
 

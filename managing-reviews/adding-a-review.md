@@ -15,7 +15,7 @@ Adding reviews to your widget is simple. Navigate to the [Widget Reviews](https:
 On the [Create Review](https://reviewdrop.io/reviews/create) screen you are able to manually add reviews customers have sent you via other mediums. 
 
 {% hint style="info" %}
-Reviews that are manually entered will **always** appear with a notice that the review was "Owner Submitted" to improve customer transparency. 
+Reviews that are manually entered will **always** appear with a notice that the review was "Externally Submitted" to improve customer transparency. 
 {% endhint %}
 
 ![Review entry allows multiple types for nicer formatting.](../.gitbook/assets/screenshot-2018-11-19-at-09.09.17.png)
