@@ -1,5 +1,19 @@
 # Upgrading/Downgrading Plans
 
+## Upgrading from Standard
+
+If you are on the standard plan you can upgrade to Pro at any time. This will provide access to unlimited reviews and ability to recieve customer reviews on your profile.
+
+Navigate to settings -&gt; subscription on your [dashboard](https://reviewdrop.io/settings#/subscription) to upgrade to pro.
+
+## Downgrading from Pro
+
+If you would rather downgrade back to Pro, please navigate to settings -&gt; subscription on your [dashboard](https://reviewdrop.io/settings#/subscription). 
+
+{% hint style="danger" %}
+If you have over 100 reviews currently on the Pro plan you cannot downgrade unless you delete reviews below the limit.
+{% endhint %}
+
 ## Cancelling your Plan
 
 If you would like to cancel, please navigate to your settings -&gt; subscription [area](https://reviewdrop.io/settings#/subscription). You can either choose to upgrade/downgrade your current subscription or cancel by clicking the red "Cancel Subscription" button.
