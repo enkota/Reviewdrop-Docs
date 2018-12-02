@@ -30,3 +30,7 @@ To update the message which appears next to the icon, head to settings -&gt; [pr
 Please keep this message short to prevent excessive space being taken up on your website.
 {% endhint %}
 
+## Add your Business Name
+
+Your business name will be replaced by your name on the profile page and various areas across the Reviewdrop network. To update, please navigate to settings -&gt; [profile](https://reviewdrop.io/settings#/profile) and scroll until the "Business Name" field. 
+
