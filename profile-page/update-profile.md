@@ -18,3 +18,15 @@ To add 3rd party links to the top of your embedded widget, please navigate to se
 3rd party links will only display to **Pro** plan subscribers.
 {% endhint %}
 
+## Updating Widget Icon Message
+
+To update the message which appears next to the icon, head to settings -&gt; [profile](https://reviewdrop.io/settings#/profile) and scroll until you get to the "Widget Title" / "Widget Description" fields.
+
+![](../.gitbook/assets/screenshot-2018-12-02-at-18.51.00.png)
+
+![](../.gitbook/assets/screenshot-2018-12-02-at-18.51.22.png)
+
+{% hint style="info" %}
+Please keep this message short to prevent excessive space being taken up on your website.
+{% endhint %}
+
