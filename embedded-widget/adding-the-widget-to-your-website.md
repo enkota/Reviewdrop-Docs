@@ -18,9 +18,25 @@ After you have selected your desired customizations, click "Create Widget" and c
 
 ### Standard
 
-The Reviewdrop widget has been designed to work virtually anywhere. Just paste in the script code just before the &lt;body&gt; closing tag on your site. Ideally, you can add this on your footer. Many website builders/cms tools have script management built in. 
+The Reviewdrop widget has been designed to work virtually anywhere. Just paste in the script code just before the **&lt;/head&gt;** closing tag on your site. Many website builders/cms tools have header script management built in. 
 
 ### WordPress
+
+To install the widget with WordPress, please navigate to your theme **header.php** file.
+
+1. Login to your WordPress admin dashboard.
+
+![](../.gitbook/assets/screenshot-2018-12-08-at-14.02.59.png)
+
+2. Head to **Appearance -&gt; Editor**
+
+3. Find the **header.php** file on the right sidebar. Please note that this may vary depending on your theme.
+
+4. At the end of your &lt;head&gt; tag, paste in the embed code found on the [Install Widget](https://reviewdrop.io/embed) page.
+
+5. Hit **Update File** and you should be good to go!
+
+![](../.gitbook/assets/screenshot-2018-12-08-at-14.04.40.png)
 
 ### Squarespace
 
