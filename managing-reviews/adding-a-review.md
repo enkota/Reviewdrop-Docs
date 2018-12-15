@@ -32,31 +32,23 @@ The image type allows you to add basic text with the addition of an image. The i
 
 To improve the review experience further, you can enter a YouTube URL that will embed into the review itself. You can also the same fields as the text field below it.
 
-### 3rd Party Reviews
+### External Reviews
 
-Ability to add 3rd party reviews is possible via the types below. Please note that reviews are not automatically aggregated from these services so you will still have to manually enter them. The trick here is to add a link to the 3rd party review where a notice appears saying "Verify on \[Trustpilot\]". 
+Ability to add 3rd party external reviews is possible via the types below. Please note that reviews are not automatically aggregated from these services so you will still have to manually enter them. The trick here is to add a link to the 3rd party review where a notice appears saying "Verify on \[Google\]". 
 
 {% hint style="info" %}
 Our goal here is to provide a level of authenticity that the review entered is backed up by the review on Google reviews for instance.
 {% endhint %}
 
-#### Trustpilot
+#### External
 
-Select the Trustpilot type and include a link to the same review. ****For example:
-
-```text
-https://uk.trustpilot.com/reviews/5bf282919d378009543cb2c3
-```
-
-#### Tripadvisor
-
-Select the Tripadvisor type and include a link to the same review. For example:
+Select the External type and include a link to the same review. ****For example:
 
 ```text
-https://www.tripadvisor.co.uk/ShowUserReviews-g187514-d1948526-r630756238-Ferraz_apartment-Madrid.html
+https://linktoanexternalreviewpage.com/
 ```
 
-#### Google Reviews
+**Google Reviews**
 
 Select the Google Reviews type and include a link to the same review. For example:
 
