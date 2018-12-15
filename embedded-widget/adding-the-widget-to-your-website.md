@@ -4,6 +4,8 @@
 
 For ease of use, please use our [widget builder](https://reviewdrop.io/embed) from your dashboard.
 
+![](../.gitbook/assets/widget-graphic.png)
+
 | Option | Values |
 | :--- | :--- |
 | **Button Position** - Either bottom left or right if using chat widget. | Left/Right |

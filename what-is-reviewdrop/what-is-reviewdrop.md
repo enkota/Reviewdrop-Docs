@@ -23,7 +23,7 @@ A review widget appears on the corner of your website. Visitors can view your be
 Only approved reviews by the owner will appear on the widget.
 {% endhint %}
 
-![The Reviewdrop widget that appears on your website.](../.gitbook/assets/widget-graphic.png)
+![The Reviewdrop widget that appears on your website.](../.gitbook/assets/widget-graphic%20%281%29.png)
 
 ## Your Reviewdrop profile
 
