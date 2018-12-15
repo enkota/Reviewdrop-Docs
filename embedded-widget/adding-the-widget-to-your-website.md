@@ -14,13 +14,11 @@ For ease of use, please use our [widget builder](https://reviewdrop.io/embed) fr
 
 After you have selected your desired customizations, click "Create Widget" and copy the code to your clipboard.
 
-## Integrations
-
-### Standard
+## Standard
 
 The Reviewdrop widget has been designed to work virtually anywhere. Just paste in the script code just before the **&lt;/head&gt;** closing tag on your site. Many website builders/cms tools have header script management built in. 
 
-### WordPress
+## WordPress
 
 To install the widget with WordPress, please navigate to your theme **header.php** file.
 
@@ -38,9 +36,9 @@ To install the widget with WordPress, please navigate to your theme **header.php
 
 ![](../.gitbook/assets/screenshot-2018-12-08-at-14.04.40.png)
 
-### Squarespace
+## Squarespace
 
-### BigCommerce
+## BigCommerce
 
 We are working on adding an app to the BigCommerce store. In the meantime you can navigate to:
 
@@ -50,7 +48,7 @@ Bigcommerce Dashboard -&gt; Storefront -&gt; Footer Scripts
 
 Paste in the embed code from the [builder](customise-widget-looks.md) and hit save.
 
-### Shopify
+## Shopify
 
-### Wix
+## Wix
 
