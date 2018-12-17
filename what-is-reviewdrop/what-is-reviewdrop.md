@@ -1,8 +1,8 @@
 ---
 description: >-
-  Reviewdrop is an embeddable widget which sits at the corner of your website.
-  When a customer opens it up, they can view or submit reviews about your
-  business as quickly as possible.
+  Reviewdrop is an embeddable widget that sits at the corner of your website.
+  When a customer opens the widget, they can view or submit reviews about your
+  business fast!
 ---
 
 # What is Reviewdrop?
