@@ -9,7 +9,7 @@ description: >-
 
 ## How does it work?
 
-Reviewdrop has two main tiers. The first \(**Standard**\) - allows you to add manual submitted reviews to your website via an embedded widget. This is aimed for smaller businesses that just need reviews added to their site in a neat and easy to update area on their website. The second tier \(**Pro**\) - allows you to gather review submissions and offer incentives via coupon codes after a user enters a review. 
+Reviewdrop has two main tiers. The first \(**Standard**\) - allows you to add manual submitted reviews to your website via an embedded widget. This is aimed for smaller businesses that just need reviews added to their site in a neat and easy to update area on their website. The second tier \(**Pro**\) - allows you to gather review submissions and offer incentives via coupon codes after a customer enters a review. 
 
 {% hint style="info" %}
 Reviews submitted by a customer can **never** be manipulated or deleted by the owner account. This is to help keep reviews transparent for the next visitor checking out reviews.
