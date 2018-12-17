@@ -8,13 +8,13 @@ To manually add an externally submitted review, navigate to the ["Widget Reviews
 
 | Field | Description |
 | :--- | :--- |
-| Review Title | Used as an internal reference for you and your staff. |
-| Type | Text/Image/Video/External/Facebook/Google. |
-| Name | Add the name of the reviewer or business. |
-| Category | What kind of business sector do they fall under - if any. |
-| Rating | Star rating. 5 possible stars. |
-| Website URL | A link to the business or shops website. |
-| Review Message | The reviewers message. Must be over 30 characters. |
+| **Review Title** | Used as an internal reference for you and your staff. |
+| **Type** | Text/Image/Video/External/Facebook/Google. |
+| **Name** | Add the name of the reviewer or business. |
+| **Category** | What kind of business sector do they fall under - if any. |
+| **Rating** | Star rating. 5 possible stars. |
+| **Website URL** | A link to the business or shops website. |
+| **Review Message** | The reviewers message. Must be over 30 characters. |
 
 
 
