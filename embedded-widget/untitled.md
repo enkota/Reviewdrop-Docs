@@ -40,3 +40,5 @@ As an example, you can try our [submission page](https://reviewdrop.io/review/re
 
 Now you understand how the review flow functions, click into any review you wish to add to your widget. As long as you are logged in, you should see an **"Approve for Widget"** button appear. Click it and it should now appear on your widget.
 
+![](../.gitbook/assets/screenshot-2018-12-17-at-16.47.27.png)
+
