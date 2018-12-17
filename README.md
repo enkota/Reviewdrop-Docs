@@ -4,9 +4,7 @@ description: Everything you need to know about Reviewdrop.
 
 # Getting Started
 
-## We are still building out this area so please bear with us!
-
-Areas to check out in the meantime:
+### Quickstart guides
 
 1. [Profile reviews page](https://reviewdrop.io/review/scott)
 2. [Plans + FAQ](http://reviewdrop.io/plans)
