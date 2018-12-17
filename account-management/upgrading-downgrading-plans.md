@@ -22,3 +22,7 @@ We work on a proration basis. Once cancelled, you will be entered into a grace p
 
 Your reviews will still be save on our system for up to 1 year from expiry. Reviews will no longer be visible to the public however.
 
+### Requesting Data Deletion
+
+As part of our GDPR guidelines, you can request your data or to terminate from our service. Please contact us at [hello@reviewdrop.io](mailto:hello@reviewdrop.io) to request your data or deletion. Allow up to 4-5 working days for us to prepare data.
+
