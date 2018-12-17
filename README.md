@@ -6,9 +6,10 @@ description: Everything you need to know about Reviewdrop.
 
 ### Quickstart guides
 
-1. [Profile reviews page](https://reviewdrop.io/review/scott)
-2. [Plans + FAQ](http://reviewdrop.io/plans)
-3. [Widget demo](http://reviewdrop.io) \(Bottom right on homepage\)
-4. [All Features](what-is-reviewdrop/features.md)
-5. [Register your interest](https://reviewdrop.io/plans)
+1. [Install Widget](embedded-widget/adding-the-widget-to-your-website.md)
+2. [Add Reviews](managing-reviews/adding-a-review.md)
+3. [Profile reviews page](https://reviewdrop.io/review/scott)
+4. [Plans + FAQ](http://reviewdrop.io/plans)
+5. [Widget demo](http://reviewdrop.io) \(Bottom right on homepage\)
+6. [All Features](what-is-reviewdrop/features.md)
 
