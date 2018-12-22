@@ -51,6 +51,10 @@ The install method below requires a Squarespace Business or Commerce plan.
 
 ![](../.gitbook/assets/squarespace.gif)
 
+#### What about personal Squarespace plans?
+
+Unfortunately it seems Squarespace require you to be on a Business or Commerce plan to add external scripts or edit theme code now. Please get in touch with Squarespace support to find out more.
+
 ## BigCommerce
 
 We are working on adding an app to the BigCommerce store. In the meantime you can navigate to:
