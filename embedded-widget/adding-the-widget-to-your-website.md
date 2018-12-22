@@ -42,6 +42,15 @@ To install the widget with WordPress, please navigate to your theme **header.php
 
 ## Squarespace
 
+{% hint style="info" %}
+The install method below requires a Squarespace Business or Commerce plan.
+{% endhint %}
+
+1. Navigate to your Squarespace admin page and click **Settings -&gt; Advanced -&gt; Code Injection**
+2. On the **Footer** section, paste in the Reviewdrop embed code and hit save.
+
+![](../.gitbook/assets/squarespace.gif)
+
 ## BigCommerce
 
 We are working on adding an app to the BigCommerce store. In the meantime you can navigate to:
