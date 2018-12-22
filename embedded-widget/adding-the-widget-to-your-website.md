@@ -56,5 +56,26 @@ Paste in the embed code from the [builder](customise-widget-looks.md) and hit sa
 
 ## Shopify
 
+To install the widget on Shopify we need to add the script to the footer. We will look at making this process easier through their app store in the future.
+
+1. Navigate to your Shopify dashboard and click **Online Store -&gt; Themes**
+2. Copy the embed code from Reviewdrop and head back to Shopify.
+
+![](../.gitbook/assets/screenshot-2018-12-22-at-12.57.31.png)
+
+3. Click **Actions -&gt; Edit code** 
+
+![](../.gitbook/assets/screenshot-2018-12-22-at-13.00.02.png)
+
+4. Search for **footer.liquid** on the editor sidebar. Please note: this may vary depending on the theme installed. Click on footer.liquid to open the file.
+
+![](../.gitbook/assets/screenshot-2018-12-22-at-13.01.28.png)
+
+5. Search for the closing **&lt;/footer&gt;** tag and paste in the Reviewdrop embed code directly below it.
+
+6. Hit save at the top right and you should be good to go!
+
+![](../.gitbook/assets/shopify.gif)
+
 ## Wix
 
