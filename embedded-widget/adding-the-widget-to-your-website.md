@@ -38,6 +38,8 @@ To install the widget with WordPress, please navigate to your theme **header.php
 
 ![](../.gitbook/assets/screenshot-2018-12-08-at-14.04.40.png)
 
+![](../.gitbook/assets/wp.gif)
+
 ## Squarespace
 
 ## BigCommerce
