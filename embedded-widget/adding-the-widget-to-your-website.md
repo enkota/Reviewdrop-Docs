@@ -92,3 +92,10 @@ To install the widget on Shopify we need to add the script to the footer. We wil
 
 ## Wix
 
+To install Reviewdrop on a Wix powered site, please refer to their documentation: [https://support.wix.com/en/article/embedding-custom-code-to-your-site](https://support.wix.com/en/article/embedding-custom-code-to-your-site)
+
+1. Use **Custom Code** on the **Tracking & Analytics** section under **Advanced Settings**.
+2. Click **New Tool -&gt; Custom Code.**
+3. Paste the Reviewdrop embed code into the **Body -** **end** input field box.
+4. Hit save, and you should be good to go!
+
