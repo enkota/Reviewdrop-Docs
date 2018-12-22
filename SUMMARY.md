@@ -14,7 +14,7 @@
 
 ## Embedded Widget
 
-* [Add Widget to Your Website](embedded-widget/adding-the-widget-to-your-website.md)
+* [Install Widget on Your Website](embedded-widget/adding-the-widget-to-your-website.md)
 * [Add Reviews to Widget](embedded-widget/untitled.md)
 * [Remove Reviews from Widget](embedded-widget/remove-reviews-from-widget.md)
 * [Add Links to Widget](embedded-widget/add-links-to-widget.md)

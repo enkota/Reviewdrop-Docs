@@ -1,4 +1,4 @@
-# Add Widget to Your Website
+# Install Widget on Your Website
 
 ## Widget builder
 
