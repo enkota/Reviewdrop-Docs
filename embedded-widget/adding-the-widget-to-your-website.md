@@ -50,6 +50,8 @@ Bigcommerce Dashboard -&gt; Storefront -&gt; Footer Scripts
 
 Paste in the embed code from the [builder](customise-widget-looks.md) and hit save.
 
+![](../.gitbook/assets/bc.gif)
+
 ## Shopify
 
 ## Wix
