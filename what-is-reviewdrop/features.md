@@ -7,17 +7,11 @@ description: What sets us apart from other review systems
 ## What's included?
 
 * Embedded review widget for your website.
-* Multiple review types **Text**, **Image**, **YouTube**, **External** , **Google \*** and **Facebook \***.
-* Manual review entry & customer submissions.
-* Strong focus on customer transparency. Manual entries appear **only** on the widget. Customer entries can appear on **both**, but **cannot** be modified by the owner.
+* Multiple review types **Text**, **Image**, **Video, Twitter** and **Instagram**.
+* Customer submissions.
 * Public entries are limited to 1 per person every 30 days to reduce fake reviews.
-* 100 Manual review limit on the Standard plan.
 * Unlimited 🚀 reviews and customer submissions on the Pro plan.
 * Coupon codes on submission to increase conversion.
-
-{% hint style="info" %}
-\(**\***\) - **Note**: These review types **do not** pull in from these service automatically. You still need to manually enter but allows you to add a prominent link on the review to show it indeed has been added to that 3rd party.
-{% endhint %}
 
 ## What sets us apart from competitors?
 

@@ -2,22 +2,18 @@
 description: >-
   Reviewdrop is an embeddable widget that sits at the corner of your website.
   When a customer opens the widget, they can view or submit reviews about your
-  business fast!
+  business.
 ---
 
 # What is Reviewdrop?
 
 ## How does it work?
 
-Reviewdrop has two main tiers. The first \(**Standard**\) - allows you to add manual submitted reviews to your website via an embedded widget. This is aimed for smaller businesses that just need reviews added to their site in a neat and easy to update area on their website. The second tier \(**Pro**\) - allows you to gather review submissions and offer incentives via coupon codes after a customer enters a review. 
-
-{% hint style="info" %}
-Reviews submitted by a customer can **never** be manipulated or deleted by the owner account. This is to help keep reviews transparent for the next visitor checking out reviews.
-{% endhint %}
+Reviewdrop is an all in one solution to gather reviews and display them on either your website widget or company profile page. Review types consist of Text, Image, Video, Twitter and Instagram posts.
 
 ## On your website
 
-A review widget appears on the corner of your website. Visitors can view your best reviews. These can be entered manually on the standard plan or approved via customer submissions on the pro plan.  
+A review widget appears on the corner of your website. Visitors can view your best reviews or click the button to view all and submit their own.
 
 {% hint style="info" %}
 Only approved reviews by the owner will appear on the widget.
@@ -27,21 +23,15 @@ Only approved reviews by the owner will appear on the widget.
 
 ## Your Reviewdrop profile
 
-The profile page acts as a hub for detailing the true picture of your business. We value customer transparency - meaning reviews entered via this page by customers cannot be edited or deleted. If you suspect a review may be fake, please get in [touch](https://reviewdrop.io/contact)!
+The profile page acts as a hub for detailing a true picture of your business.
 
-{% hint style="info" %}
-Only customer submitted reviews appear on your profile. You cannot edit/delete customer reviews to improve customer transparency. You can however respond to messages.
-{% endhint %}
-
-![The Reviewdrop profile page that visitors can see reviews from other customers and submit their own.](../.gitbook/assets/widget-graphic-2.png)
+![](../.gitbook/assets/screenshot-2019-01-21-at-20.24.44.png)
 
 ## Customer Submissions
 
-When a customer enters a review from the submission page, it will automatically appear on your profile page. As mentioned, you cannot edit/delete these reviews to give visitors a true reflection of your service.
+When a customer enters a review from the submission page, it will automatically appear on your profile page. You also have ability to either respond or approve on your website widget.
 
-We believe that to improve transparency you should not get upset with bad reviews, but respond in a professional manner. With our "Response" feature, you can add a reply to any review to give your thoughts on the matter.
-
-![](../.gitbook/assets/widget-graphic-3.png)
+![](../.gitbook/assets/screenshot-2019-01-21-at-20.25.22.png)
 
 ### Customer Incentives
 
