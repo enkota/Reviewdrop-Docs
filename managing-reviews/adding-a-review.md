@@ -1,70 +1,44 @@
 ---
-description: How to create manual and automatically submitted reviews.
+description: How the review system works
 ---
 
 # Add Review
 
-## Widget Reviews
+Reviewdrop makes use of 2 review flows - _Customer submissions_ and _Social submissions_. Customer submitted reviews are the ones gathered via your company profile page. Social submissions are entered manually by you via social media links such as Twitter/Instagram. 
 
-Adding reviews to your widget is simple. Navigate to the [Widget Reviews](https://reviewdrop.io/dashboard) area and click "Create a Review". 
+### Social Submissions
 
-![The widget review management page.](../.gitbook/assets/screenshot-2018-11-19-at-09.06.59.png)
+To manually add a tweet or instagram post/testimonial, navigate to the [Import Review](https://reviewdrop.io/reviews/create) page.
 
-### Review Types
+| Field | Description |
+| :--- | :--- |
+| **Review Title** | Used as an internal reference for you and your staff. |
+| **Type** | Instagram/Twitter |
+| **Link** | Please ensure this is the correct social media url structure. |
 
-On the [Create Review](https://reviewdrop.io/reviews/create) screen you are able to manually add reviews customers have sent you via other mediums. 
-
-{% hint style="info" %}
-Reviews that are manually entered will **always** appear with a notice that the review was "Externally Submitted" to improve customer transparency. 
-{% endhint %}
-
-![Review entry allows multiple types for nicer formatting.](../.gitbook/assets/screenshot-2018-11-19-at-09.09.17.png)
-
-#### Text
-
-The text type allows you to add basic text. A link to the customers website, rating, name/business and message.
-
-#### Image
-
-The image type allows you to add basic text with the addition of an image. The image is a great method to provide rich content to visitors how they enjoyed using a product for example.
-
-#### YouTube
-
-To improve the review experience further, you can enter a YouTube URL that will embed into the review itself. You can also the same fields as the text field below it.
-
-### External Reviews
-
-Ability to add 3rd party external reviews is possible via the types below. Please note that reviews are not automatically aggregated from these services so you will still have to manually enter them. The trick here is to add a link to the 3rd party review where a notice appears saying "Verify on \[Google\]". 
+Tweets and Instagram posts may be deleted at any time from your profile. Navigate to the "Approved" page to manage/delete them.
 
 {% hint style="info" %}
-Our goal here is to provide a level of authenticity that the review entered is backed up by the review on Google reviews for instance.
+Social submissions are not added to your average review rating but provide another medium to display on the company profile feed.
 {% endhint %}
 
-#### External
+### Customer Submitted
 
-Select the External type and include a link to the same review. ****For example:
-
-```text
-https://linktoanexternalreviewpage.com/
-```
-
-**Google Reviews**
-
-Select the Google Reviews type and include a link to the same review. For example:
-
-```text
-https://www.google.co.uk/search?q=xtensive&oq=xtensive+&aqs=chrome..69i57j69i60l2j69i61j0l2.851j0j7&sourceid=chrome&ie=UTF-8#lrd=0x48884bf1d7f3223d:0x3ee94973b03ad90f,1,,,
-```
+Customers are able to submit reviews which appear automatically on your profile page. Reviews submitted through this method still need to be manually approved to appear on the widget. The way we look at this is most busineses will only want to highlight positive reviews on their website and all reviews on your profile page.
 
 {% hint style="info" %}
-Please note that Google doesn't make it easy to add individual reviews. We suggest linking to the main reviews page. Google chrome generates a URL when you open the star rating pop-up on your business card.
+Customer Submitted is a **Standard/Pro** plan feature.
 {% endhint %}
 
-#### Facebook
+As an example, you can try our [submission page](https://reviewdrop.io/review/reviewdrop/submit). This can be found via your own profile page and then clicking the **"Write a Review"** button.
 
-Select the Facebook type and include a link to the same review. For example:
-
-```text
-https://en-gb.facebook.com/XtensiveLtd/reviews/?post_id=2150682771865952
-```
+| Field | Description |
+| :--- | :--- |
+| **Rating** | Star rating. 5 possible stars. |
+| **Title** | The reviewers name or business. |
+| **Type** | Text/Image/Video |
+|  **Name** | Add the name of the reviewer or business. |
+| **Category** | What kind of business sector do they fall under - if any. |
+| **Website URL** | A link to the business or shops website. |
+| **Review Message** | The reviewers message. Must be over 30 characters. |
 
