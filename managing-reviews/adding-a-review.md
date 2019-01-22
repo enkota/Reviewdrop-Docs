@@ -68,5 +68,3 @@ Select the Facebook type and include a link to the same review. For example:
 https://en-gb.facebook.com/XtensiveLtd/reviews/?post_id=2150682771865952
 ```
 
-{% page-ref page="../profile-page/adding-reviews.md" %}
-
