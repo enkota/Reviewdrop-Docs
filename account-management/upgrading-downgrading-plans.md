@@ -1,8 +1,12 @@
 # Upgrading/Downgrading Plans
 
+## Upgrading from Starter
+
+If you are on the free starter plan you can upgrade to a paid plan at any time. This will provide access to either 30 max reviews on Standard or unlimited on Pro.
+
 ## Upgrading from Standard
 
-If you are on the standard plan you can upgrade to Pro at any time. This will provide access to unlimited reviews and ability to recieve customer reviews on your profile.
+If you are on the standard plan you can upgrade to Pro at any time. This will provide access to unlimited reviews.
 
 Navigate to settings -&gt; subscription on your [dashboard](https://reviewdrop.io/settings#/subscription) to upgrade to pro.
 
