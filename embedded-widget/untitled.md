@@ -2,8 +2,6 @@
 
 Reviewdrop makes use of 2 review flows - _Customer submissions_ and _Social submissions_. Customer submitted reviews are the ones gathered via your company profile page. Social submissions are entered manually by you via social media links such as Twitter/Instagram. 
 
-
-
 ### Social Submissions
 
 To manually add a tweet or instagram post/testimonial, navigate to the [Import Review](https://reviewdrop.io/reviews/create) page.
