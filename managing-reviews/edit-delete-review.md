@@ -1,12 +1,12 @@
 # Edit/Delete Review
 
-### Remove Externally Submitted Review <a id="remove-externally-submitted-review"></a>
+### Remove Twitter/Instagram Testimonial <a id="remove-externally-submitted-review"></a>
 
-To remove a review that was submitted by yourself, click into the desired review and choose **"Edit Review"** you can the scroll down to the bottom and click **"Delete Review"**
+To remove a review that was submitted as a tweet or instagram post, click into the desired review and choose **"Edit Review"** you can the scroll down to the bottom and click **"Delete Review"**
 
-### **Remove Publically Submitted Review** <a id="remove-publically-submitted-review"></a>
+### **Remove Customer Submitted Review** <a id="remove-publically-submitted-review"></a>
 
-You cannot remove publically submitted reviews. You can however respond by clicking the **"Respond to Review"** button on the review post. 
+You cannot remove customer submitted reviews. You can however respond by clicking the **"Respond to Review"** button on the review post. 
 
 #### Report Review
 
