@@ -10,14 +10,6 @@ To update the username please head to settings -&gt; [profile](https://reviewdro
 Changing your username will result in 404 \(Broken\) links from your previous username url. Use at your own risk!
 {% endhint %}
 
-## Adding 3rd Party Links on Widget
-
-To add 3rd party links to the top of your embedded widget, please navigate to settings -&gt; [profile](https://reviewdrop.io/settings#/profile) and scroll until you get to the "Trustpilot" field. You may enter profile links to Trustpilot, Trip Advisor and Google.
-
-{% hint style="info" %}
-3rd party links will only display to **Pro** plan subscribers.
-{% endhint %}
-
 ## Updating Widget Icon Message
 
 To update the message which appears next to the icon, head to settings -&gt; [profile](https://reviewdrop.io/settings#/profile) and scroll until you get to the "Widget Title" / "Widget Description" fields.
