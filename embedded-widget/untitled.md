@@ -1,6 +1,8 @@
 # Add Reviews to Widget
 
-Reviewdrop makes use of 2 review flows - _Customer submissions_ and _Social submissions_. Customer submitted reviews are the ones gathered via your company profile page. Social submissions are entered manually by you via social media links such as Twitter/Instagram. Social submissions are not added to your average review rating but provide another medium to display on the company profile feed.
+Reviewdrop makes use of 2 review flows - _Customer submissions_ and _Social submissions_. Customer submitted reviews are the ones gathered via your company profile page. Social submissions are entered manually by you via social media links such as Twitter/Instagram. 
+
+
 
 ### Social Submissions
 
@@ -11,6 +13,12 @@ To manually add a tweet or instagram post/testimonial, navigate to the [Import R
 | **Review Title** | Used as an internal reference for you and your staff. |
 | **Type** | Instagram/Twitter |
 | **Link** | Please ensure this is the correct social media url structure. |
+
+Tweets and Instagram posts may be deleted at any time from your profile. Navigate to the "Approved" page to manage/delete them.
+
+{% hint style="info" %}
+Social submissions are not added to your average review rating but provide another medium to display on the company profile feed.
+{% endhint %}
 
 ### Customer Submitted
 
