@@ -2,7 +2,7 @@
 
 Pending submissions are found under the [User Submissions](https://reviewdrop.io/reviews/submissions) page. Pending submissions are reviews that are submitted via the public form. You can either approve or respond to a review.
 
-![](../.gitbook/assets/screenshot-2018-12-16-at-15.28.52.png)
+![](../.gitbook/assets/screenshot-2019-08-11-at-09.34.14.png)
 
 ### Approving a Review
 

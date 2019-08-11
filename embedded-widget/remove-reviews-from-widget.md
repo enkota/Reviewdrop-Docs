@@ -4,9 +4,11 @@ To remove a review from the widget, navigate to the [Approved](https://reviewdro
 
 ### **Removing from Widget**
 
-To remove a review that was submitted and approved on the widget, find the desired review and click the **"User Locked"** icon on the right side, then click the **"Remove from Widget"** button.
+To remove a review that was submitted and approved on the widget, find the desired review and click into that review page. From here, you can click the **"Remove from widget"** button.
 
-![](../.gitbook/assets/screenshot-2018-12-17-at-16.23.32.png)
+{% hint style="info" %}
+Reviews can be removed from your widget at any time but not your main profile page unless reported.
+{% endhint %}
 
-
+![](../.gitbook/assets/screenshot-2019-08-11-at-09.42.01.png)
 
