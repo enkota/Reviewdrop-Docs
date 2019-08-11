@@ -82,6 +82,8 @@ To install our script on Bigcommerce, first navigate to the [**Marketing -&gt; S
 
 ### Shopify
 
+1. To install our script on Shopify, first navigate to the [**Marketing -&gt; Settings**](https://reviewdrop.io/customers/settings) ****page on your reviewdrop dashboard. Copy the code there or use the code snippet below. Make note of your Reviewdrop ID found on the marketing -&gt; settings page.
+
 {% code-tabs %}
 {% code-tabs-item title="Shopify Conversion Script" %}
 ```markup
@@ -100,6 +102,23 @@ To install our script on Bigcommerce, first navigate to the [**Marketing -&gt; S
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
+
+1. 2. On Shopify, navigate to your store admin page and go to **Settings -&gt; Checkout** and scroll to **Order Processing -&gt; Additional Scripts** then paste your code. ****
+3. Next, head back to your Reviewdrop dashboard then [**Manage account -&gt; Settings -&gt; API**](https://reviewdrop.io/settings#/api)
+4. Enter a name for the token \(Website name\) and click create. Copy your access token \(Note: this will only appear once\) and navigate back to the Bigcommerce dashboard to paste under inside the _**token: "INSERT CODE HERE"**_ quotes.
+5. As seen in the image below, we are using Bigcommerce global variable {{ order.email }} and {{ order.id }} to track what email we should send the invite to. These are required to function properly.
+6. The **date** paramter allows you to choose when the email should be sent from order placement. We use time in seconds here which can be confusing at first. Please use the table below to configure correctly. By default time is set to 0 which will send instantly after order.
+7. Hit save, and try out a test order to ensure you recieve an email.
+8.   | Time \(seconds\) | Email send date |
+   | :--- | :--- |
+   | 0 | Instantly |
+   | 1440 | 1 day after order |
+   | 2880 | 2 days after order |
+   | 4320 | 3 days after order |
+   | 10080 | 1 week after order |
+   | 20160 | 2 weeks after order |
+   | 30240 | 3 weeks after order |
+   | 40320 | 4 weeks after order |
 
 
 
