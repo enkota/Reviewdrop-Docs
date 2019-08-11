@@ -50,7 +50,7 @@ To install our script on Bigcommerce, first navigate to the [**Marketing -&gt; S
 4. Enter a name for the token \(Website name\) and click create. Copy your access token \(Note: this will only appear once\) and navigate back to the Bigcommerce dashboard to paste under inside the _**token: "INSERT CODE HERE"**_ quotes.
 5. As seen in the image below, we are using Bigcommerce global variable %%ORDER\_EMAIL%% and %%ORDER\_ID%% to track what email we should send the invite to. These are required to function properly.
 6. The **date** paramter allows you to choose when the email should be sent from order placement. We use time in seconds here which can be confusing at first. Please use the table below to configure correctly. By default time is set to 0 which will send instantly after order.
-7. Hit save, and try out a test order to ensure you recieve an email.
+7. Hit save, and try out a test order to ensure you recieve an email. You may recieve an error about order data but continue as it's not needed for our case.
 
 ![](../.gitbook/assets/screenshot-2019-08-11-at-10.13.38.png)
 
