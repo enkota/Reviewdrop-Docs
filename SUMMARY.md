@@ -15,6 +15,7 @@
 ## Email Invitations
 
 * [Manually send email invites](email-invitations/manually-send-email-invites.md)
+* [Automatic invite emails](email-invitations/automatic-invite-emails.md)
 
 ## Embedded Widget
 

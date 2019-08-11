@@ -22,7 +22,7 @@ The Reviewdrop widget has been designed to work virtually anywhere. Just paste i
 
 ## WordPress
 
-To install the widget with WordPress, please navigate to your theme **header.php** file.
+To install the widget with WordPress, please navigate to your admin dashboard
 
 1. Login to your WordPress admin dashboard.
 
