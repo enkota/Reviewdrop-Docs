@@ -7,10 +7,12 @@ description: What sets us apart from other review systems
 ## What's included?
 
 * Embedded review widget for your website.
-* Multiple review types **Text**, **Image**, **Video, Twitter** and **Instagram**.
+* Multiple review types **Text**, **Image** and **Video**.
 * Customer submissions.
 * Company profile.
-* Twitter trending - Show customers the buzz with your \#Hashtag.
+* Automatically send email review invites on conversion.
+* Manually send email invites for other business types.
+* Woocommerce, Bigcommerce and Shopify support.
 * Public entries are limited to 1 per person every 30 days to reduce fake reviews.
 * Unlimited 🚀 reviews and customer submissions on the Pro plan.
 * Coupon codes on submission to increase conversion.
