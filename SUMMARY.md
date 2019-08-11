@@ -12,6 +12,10 @@
 * [Add Review](managing-reviews/adding-a-review.md)
 * [Edit/Delete Review](managing-reviews/edit-delete-review.md)
 
+## Email Invitations
+
+* [Manually send email invites](email-invitations/manually-send-email-invites.md)
+
 ## Embedded Widget
 
 * [Install Widget on Your Website](embedded-widget/adding-the-widget-to-your-website.md)
