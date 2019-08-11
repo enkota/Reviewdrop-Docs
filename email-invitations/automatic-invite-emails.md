@@ -44,6 +44,21 @@ To install our plugin with WordPress, please navigate to your admin dashboard:
 
 To install our script on Bigcommerce, first navigate to the [**Marketing -&gt; Settings**](https://reviewdrop.io/customers/settings) ****page on your dashboard. 
 
+```markup
+<!-- Reviewdrop Conversion Start Bigcommerce -->
+<script>
+    var rdConfigConversion = {
+        email: "%%ORDER_EMAIL%%",
+        date: "1440", //1440 = Email 1 day after order. Check docs for setup.
+        id: "YOUR REVIEWDROP ID",
+        token: "ENTER TOKEN HERE",
+        order: "%%ORDER_ID%%",
+    }
+</script>
+<script defer type="text/javascript" src="https://app.reviewdrop.io/conversion.js"></script>
+<!-- Reviewdrop Conversion End Bigcommerce -->
+```
+
 1. Copy the script code to your clipboard and head to your Bigcommerce dashboard.
 2. Click **Advanced Settings -&gt; Affiliate Conversion Tracking** and paste your code.
 3. Next, head back to your Reviewdrop dashboard then [**Manage account -&gt; Settings -&gt; API**](https://reviewdrop.io/settings#/api)
@@ -67,7 +82,24 @@ To install our script on Bigcommerce, first navigate to the [**Marketing -&gt; S
 
 ### Shopify
 
-\[Guide coming soon\]
+{% code-tabs %}
+{% code-tabs-item title="Shopify Conversion Script" %}
+```markup
+<!-- Reviewdrop Conversion Start Shopify -->
+<script>
+    var rdConfigConversion = {
+        email: "{{ order.email }}",
+        date: "1440", //1440 = Email 1 day after order. Check docs for setup.
+        id: "YOUR REVIEWDROP ID",
+        token: "ENTER TOKEN HERE",
+        order: "{{ order.id }}",
+    }
+</script>
+<script defer type="text/javascript" src="https://app.reviewdrop.io/conversion.js"></script>
+<!-- Reviewdrop Conversion End Shopify -->
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
 
 
 
