@@ -28,17 +28,13 @@ To install the widget with WordPress, please navigate to your theme **header.php
 
 ![](../.gitbook/assets/screenshot-2018-12-08-at-14.02.59.png)
 
-2. Head to **Appearance -&gt; Editor**
+2. Head to **Plugins -&gt; Add new**
 
-3. Find the **header.php** file on the right sidebar. Please note that this may vary depending on your theme.
+3. Search for Reviewdrop or download the plugin [here](https://wordpress.org/plugins/reviewdrop/).
 
-4. At the end of your &lt;head&gt; tag, paste in the embed code found on the [Install Widget](https://reviewdrop.io/embed) page.
+4. Install and activate the plugin and head to the settings page to configure.
 
-5. Hit **Update File** and you should be good to go!
-
-![](../.gitbook/assets/screenshot-2018-12-08-at-14.04.40.png)
-
-![](../.gitbook/assets/wp.gif)
+5. If you are on a paid plan, you can also add automatic email invites once a customer has ordered on Woocommerce. For more information, visit our conversion section.
 
 ## Squarespace
 
