@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Getting Started](README.md)
+* [FAQs](faqs.md)
 
 ## What is Reviewdrop?
 
