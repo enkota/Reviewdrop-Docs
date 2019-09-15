@@ -28,6 +28,10 @@ In short, yes. All reviews that are added to your company profile page \([exampl
 
 We are striving to offer similar features to the larger review companies at a more affordable price. You can check out our Trustpilot comparison here - [https://reviewdrop.io/compare](https://reviewdrop.io/compare)
 
+### I have more questions to ask!
+
+We are always here to answer your questions. Either message us on the live chat icon on our website or drop us an email at [scott@reviewdrop.io](mailto:scott@reviewdrop.io)
+
 
 
 
