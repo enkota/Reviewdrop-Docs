@@ -2,7 +2,7 @@
 description: Frequently asked questions
 ---
 
-# FAQs
+# FAQ's
 
 ## How are reviews collected?
 
