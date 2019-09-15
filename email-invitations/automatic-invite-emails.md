@@ -8,7 +8,7 @@ description: >-
 
 To automate the process of collecting reviews on your online store, we have created a simple conversion script that will send email invitations to the customer at a selected date after order.
 
-### Woocommerce
+## Woocommerce
 
 To install our script on Woocommerce, first download the plugin from the WordPress plugin marketplace. Alternatively, download [here](https://wordpress.org/plugins/reviewdrop/).
 
@@ -40,7 +40,7 @@ To install our plugin with WordPress, please navigate to your admin dashboard:
 
 ![](../.gitbook/assets/screenshot-2019-08-11-at-10.03.55.png)
 
-### Bigcommerce
+## Bigcommerce
 
 To install our script on Bigcommerce, first navigate to the [**Marketing -&gt; Settings**](https://reviewdrop.io/customers/settings) ****page on your dashboard. 
 
@@ -80,7 +80,7 @@ To install our script on Bigcommerce, first navigate to the [**Marketing -&gt; S
 | 30240 | 3 weeks after order |
 | 40320 | 4 weeks after order |
 
-### Shopify
+## Shopify
 
 1. To install our script on Shopify, first navigate to the [**Marketing -&gt; Settings**](https://reviewdrop.io/customers/settings) ****page on your reviewdrop dashboard. Copy the code there or use the code snippet below. Make note of your Reviewdrop ID found on the marketing -&gt; settings page.
 
@@ -120,5 +120,7 @@ To install our script on Bigcommerce, first navigate to the [**Marketing -&gt; S
    | 30240 | 3 weeks after order |
    | 40320 | 4 weeks after order |
 
+## API/Zapier
 
+We are in closed beta for adding API/Zapier support. If you would like to integrate Reviewdrop with your own system or Zapier [get in touch](mailto:scott@reviewdrop.io) and we will provide details.
 
