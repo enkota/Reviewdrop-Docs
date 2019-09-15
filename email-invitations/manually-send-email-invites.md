@@ -9,7 +9,7 @@ There are two methods of sending email review invites to your customers. If you 
 Alternatively, you can also send manual email invites to clients if you run a service type business.
 
 {% hint style="info" %}
-Email invitations require a **paid** plan.
+Free plans now include **50 free** email invitations to try out our service!
 {% endhint %}
 
 ### Sending email
