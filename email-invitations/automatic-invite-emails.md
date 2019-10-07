@@ -49,7 +49,7 @@ To install our script on Bigcommerce, first navigate to the [**Marketing -&gt; S
 <script>
     var rdConfigConversion = {
         email: "%%ORDER_EMAIL%%",
-        date: "1440", //1440 = Email 1 day after order. Check docs for setup.
+        date: "1440", //1440 Mins = Email 1 day after order. Check docs for setup.
         id: "YOUR REVIEWDROP ID",
         token: "ENTER TOKEN HERE",
         order: "%%ORDER_ID%%",
@@ -69,7 +69,7 @@ To install our script on Bigcommerce, first navigate to the [**Marketing -&gt; S
 
 ![](../.gitbook/assets/screenshot-2019-08-11-at-10.13.38.png)
 
-| Time \(seconds\) | Email send date |
+| Time \(mins\) | Email send date |
 | :--- | :--- |
 | 0 | Instantly |
 | 1440 | 1 day after order |
@@ -91,7 +91,7 @@ To install our script on Bigcommerce, first navigate to the [**Marketing -&gt; S
 <script>
     var rdConfigConversion = {
         email: "{{ order.email }}",
-        date: "1440", //1440 = Email 1 day after order. Check docs for setup.
+        date: "1440", //1440 Mins = Email 1 day after order. Check docs for setup.
         id: "YOUR REVIEWDROP ID",
         token: "ENTER TOKEN HERE",
         order: "{{ order.id }}",
@@ -109,7 +109,7 @@ To install our script on Bigcommerce, first navigate to the [**Marketing -&gt; S
 5. As seen in the image below, we are using Bigcommerce global variable {{ order.email }} and {{ order.id }} to track what email we should send the invite to. These are required to function properly.
 6. The **date** paramter allows you to choose when the email should be sent from order placement. We use time in seconds here which can be confusing at first. Please use the table below to configure correctly. By default time is set to 0 which will send instantly after order.
 7. Hit save, and try out a test order to ensure you recieve an email.
-8.   | Time \(seconds\) | Email send date |
+8.   | Time \(mins\) | Email send date |
    | :--- | :--- |
    | 0 | Instantly |
    | 1440 | 1 day after order |
